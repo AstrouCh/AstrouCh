@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, I'm Astrid ✨</h1>
+<h1 align="center">Bonjour, I'm Astrid!</h1>
 <h2 align="center">A new Fullstack developer everywhere in the world 🌎</h2>
 
 <p align="center">I'm from France and currently based in Berlin. 
@@ -11,7 +11,7 @@ I would love to work for <b>projects with social and/or environmental impact</b>
 During my bootcamp at Le Wagon, I developed various projects:
 - [RentMyStuff](https://github.com/AstrouCh/rent_my_stuff), a marketplace to rent anything
 - [WeekEnd](https://github.com/rmPablo1/weekend), a calendar where you can import your personal calendar and share it with your friends - ideal to find the perfect date to meet!
-<p>👉 Discover all my projects in my portfolio.</p>
+<p>👉🏻 Discover all my projects in my portfolio.</p>
 
 <br>
 
